@@ -1,6 +1,6 @@
-# LCMS Aisle
+# LCMS
 
-LCMS Aisle is a Content Management System (CMS) application built using PHP with the Laravel framework. It provides a user-friendly interface for managing content, including articles, pages, categories, and more.
+LCMS is a Content Management System (CMS) application built using PHP with the Laravel framework. It provides a user-friendly interface for managing content, including articles, pages, categories, and more.
 
 ## Features
 
